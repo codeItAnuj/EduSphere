@@ -1,0 +1,6 @@
+{
+  "name": "EduSphere — E-Learning & Study Planner Dashboard",
+  "description": "Interactive E-Learning platform dashboard with task management, priority filtering, daily study planner, calendar schedule, Recharts progress analytics, dark/light mode, and localStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
